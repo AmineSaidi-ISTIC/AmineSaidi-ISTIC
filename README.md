@@ -29,6 +29,7 @@ I'm a third year engineering student at ESPRIT, Freelancer and a passionate prog
 ![Dask](https://img.shields.io/badge/-CNN-000?style=for-the-badge&logo=bigdata)
 ![Dask](https://img.shields.io/badge/-ANN-000?style=for-the-badge&logo=bigdata)
 ![Dask](https://img.shields.io/badge/-RNN-000?style=for-the-badge&logo=bigdata)
+![Dask](https://img.shields.io/badge/-opencv-000?style=for-the-badge&logo=opencv)
 
 
 
