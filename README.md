@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amine Saidi</h1>
 <p align="center">
-<a href="https://dramsch.net/linkedin" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/amine-saidi-78342a241/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:amine.saidi1@esprit.tn"><img alt="" src="https://img.shields.io/badge/amine.saidi1@esprit.tn-c12314?logo=gmail&logoColor=red" style="vertical-align:center"  /></a>
 </p>
 
