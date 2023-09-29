@@ -33,7 +33,7 @@ I'm a third year engineering student at ESPRIT, Freelancer and a passionate prog
 
 
 
-#### Languages
+#### Languages and Frameworks
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/-fast_Api-000?style=for-the-badge&logo=fastapi&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/-flask-000?style=for-the-badge&logo=flask&logoColor=ffdd54)
